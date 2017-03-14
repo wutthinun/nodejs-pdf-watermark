@@ -1,5 +1,5 @@
 ## Installation
-	- `npm install`
+	- npm install
 
 ## Run
-	- `node pdfkid.js`
+	- node pdfkid.js
